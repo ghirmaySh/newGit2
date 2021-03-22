@@ -1,0 +1,10 @@
+package newGit2package;
+
+public class newGit2 {
+	public static void main(String[] args) {
+		
+		System.out.println(20+66);
+		
+	}
+
+}
